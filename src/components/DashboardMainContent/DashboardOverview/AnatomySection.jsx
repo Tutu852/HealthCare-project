@@ -13,7 +13,7 @@ const AnatomySection = () => {
         <div className="w-[50%] mx-auto overflow-hidden">
           <Zoom>
             <img
-              src="/src/assets/human-transparent.png.png"
+              src="/src/assets/human-transparent.png"
               alt="Human Anatomy"
               className="h-auto w-full"
             />
